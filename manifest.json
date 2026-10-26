@@ -1,0 +1,59 @@
+{
+  "version": "0.50.0-tideline",
+  "sourceSha256": "6b676a128aae276da2181e4e00daafaf6d837ccc7160506d9f0283905c043bd6",
+  "edition": "full",
+  "singleFile": false,
+  "htmlBytes": 268428,
+  "sha256": "320ca20d0935e6f123d01394060f404bd48236a6971c4b34d03212d636e1388b",
+  "buildSha256": "8696ddf8eeca825b3f2a570e43ea830d241911a4f7bf46183fd5f44367f0a4b4",
+  "files": {
+    "index.html": {
+      "bytes": 268428,
+      "sha256": "320ca20d0935e6f123d01394060f404bd48236a6971c4b34d03212d636e1388b"
+    },
+    "game.js": {
+      "bytes": 2907794,
+      "sha256": "3545f927d74fa3563bf847064361441955b9aac023965e4c5f526776c78dd2bd"
+    },
+    "audio/sprint.js": {
+      "bytes": 4352913,
+      "sha256": "43827caaba2cd4ff27d80d8ce6708e8e734698f3ebdaa05bf496a144f6c3cc8d"
+    },
+    "audio/grove.js": {
+      "bytes": 3326863,
+      "sha256": "fcc7057e00b915fb47cfdf129dff5eb337f017d706515b7915318b8abac971e4"
+    },
+    "audio/tactical.js": {
+      "bytes": 2783253,
+      "sha256": "dbe62a91c16984b0e8425e02af8ee14e0e304d64353fa845b7aae67f1ee07556"
+    },
+    "audio/fjord.js": {
+      "bytes": 3815192,
+      "sha256": "d5f2e30f88143a2411b9bb302eeaf79591070e0f2ebf75db1977ba2f5c88e8e6"
+    },
+    "audio/canyon.js": {
+      "bytes": 4292485,
+      "sha256": "22c013b8b42a56033e598e2f734338c5d69fc768414d3375989b39101d3f7661"
+    },
+    "audio/lantern.js": {
+      "bytes": 3847632,
+      "sha256": "2620f4e5ec8d9863a7f5fb1de4e2845194b32e5657960d6fc776b4a3ec894c25"
+    },
+    "audio/final.js": {
+      "bytes": 3976970,
+      "sha256": "b72751698df621f8a8cd8ef6b6f535a25274375909d03842b03cbd5286f820be"
+    },
+    "audio/pitstop.js": {
+      "bytes": 663900,
+      "sha256": "8af786603584504e0c1bbb2582cf6638c186a624e30d2604483668f5b7603938"
+    },
+    "audio/podium.js": {
+      "bytes": 272307,
+      "sha256": "9c242c0912f6c120e70e0f5a0a3d64a2620fb61ee9f28a1b44bacc16483ce4c4"
+    },
+    "audio/instruments.js": {
+      "bytes": 41859215,
+      "sha256": "b712fe3d829fb46a18f8001274d74b5da8aaab609973acd19ba69c3f5e64d63c"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+SLIPWAKE / WAKECRAFT
+
+Original compositions, arrangements and reprises for Slipwake.
+
+196 selected recordings, tuned, trimmed and resampled for the game.
+
+Versilian Studios VCSL: pianos, marimba, harp, vibraphone, dan tranh, bowed psaltery, tenor saxophone, Strumstick and percussion. CC0. https://github.com/sgossner/VCSL
+
+Versilian Studios / Sam Gossner, VSCO 2 Community Edition: recorded solo contrabass pizzicato, velocity layers and alternate takes. CC0. https://github.com/sgossner/VSCO-2-CE
+
+Karoryfer Samples / D. Smolken, Shinyguitar: recorded magnetic-pickup archtop electric guitar, dynamic layers and alternate takes. CC0. https://github.com/sfzinstruments/karoryfer.shinyguitar
+
+Meta Creative Audio, Meta Nylon Guitar: recorded classical guitar, fingerstyle and picked articulations. CC0. https://github.com/facebookincubator/Meta-open-sound/tree/main/systems/instruments/meta-nylon-guitar
+
+The destination melodies and chord parts use recorded instruments. Recorded double bass supports the wetland, canyon, fjord and lantern songs and club themes. The coast, shipyard and regatta retain their modeled bass character. Kick and rim layers supplement recorded percussion; the coast and shipyard retain electronic drum kits. Source paths, pinned revisions, download hashes and preparation are retained in AUDIO-SOURCES.json and the project. No Gran Turismo recordings, melodies or licensed soundtrack material are used.
